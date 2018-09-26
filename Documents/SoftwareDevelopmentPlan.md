@@ -16,11 +16,22 @@ This Software Development Plan provides the details of the planned development f
 
 ## 4.2 Project Resources
 
-| Team Member  | Role | Responsibilities
-| ------------- | ------------- | ------------- |
-| Ben Smith  | Developer  | tbd|
-| Emily Shoji  | Developer | tbd|
-| Danico Pidlaoan  | Developer  | tbd|
+### Software Team
+|   Team Member    |         Department     |      Role       | Responsibilities |
+| ---------------- | ---------------------- | --------------- | ---------------- |
+| Ben Davis        | Computer Science       | Developer       | TBD |
+| Emily Shoji      | Computer Science       | Developer       | TBD |
+| Danico Pidlaoan  | Computer Science       | Developer       | TBD |
+
+### Hardware & Business Team
+|   Team Member    |         Department     |      Role       | Responsibilities|
+| ---------------- | ---------------------- | --------------- | ----------------|
+| Billy Walker     | Mechanical Engineering | Team Lead       | TBD |
+| Masaki Takamatsu | Mechanical Engineering | Design Lead     | TBD |
+| Charity Waddy    | Mechanical Engineering | Operations Lead | TBD |
+| Andre DeLeon     | Mechanical Engineering |                 | TBD |
+| Ahmed Kalifeh    | Mechanical Engineering |                 | TBD |
+| Matt Tejada      | Entrepreneurship       | Business Lead   | TBD |
 
 #### 4.2.1 Hardware Resources
 
