@@ -8,9 +8,9 @@ This Software Development Plan provides the details of the planned development f
 
 | Milestone  | Target Date | Status
 | ------------- | ------------- | ------------- |
-| Milestone 1  | Developer  | not started |
-| Milestone 2  | Developer | not started |
-| Milestone 3  | Developer  | not started |
+| Milestone 1  | mm/dd/yyyy  | not started |
+| Milestone 2  | mm/dd/yyyy | not started |
+| Milestone 3  | mm/dd/yyyy  | not started |
 
 #### 4.1.1 Project Deliverables
 
@@ -57,4 +57,4 @@ Date | Activities
 11/28/18 | AlphaBetaCritical [ABCDR] Project Presentations
 12/05/18 | Code Peer Review, Student Project Status Updates
 12/12/18 | No Class [Final Exams Week]  
-TBA      | Final Presentations & Demonstrations 
+TBA      | Final Presentations & Demonstrations
