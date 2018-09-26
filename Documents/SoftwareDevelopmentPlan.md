@@ -6,6 +6,12 @@
 
 ## 4.2 Project Resources
 
+| Team Member  | Role | Tasks
+| ------------- | ------------- | ------------- |
+| Ben Smith  | Developer  | tbd|
+| Emily Shoji  | Developer | tbd|
+| Danico Pidlaoan  | Developer  | tbd|
+
 #### 4.2.1 Hardware Resources
 
 #### 4.2.2 Software Resources
