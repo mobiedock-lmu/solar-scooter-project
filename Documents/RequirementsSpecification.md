@@ -30,11 +30,11 @@ The application's main page will consist of a map with the locations of the diff
 #### 5.5.2   Execution Environment Requirements
 
 ## 5.6 Example Images
-### Figure 1: Bird - Map Example
-![Figure 1: Bird Map Example](./images/Bird_station_status_mockup.png)
+### Figure 1: Bird - Station Status Example 1
+<img src="./images/Bird_station_status_mockup.png" width="364" height="684">
 
-### Figure 2: Lime - UI Example
-![Figure 2: Lime UI Example](./images/Lime_station_status_mockup.png)
+### Figure 2: Lime - Station Status Example 2
+<img src="./images/Lime_station_status_mockup.png" width="364" height="684">
 
-### Figure 3: Other - UI Example
-![Figure 3: Other UI](./images/figure3.png)
+### Figure 3: Bird - Incentive Tracking
+<img src="./images/Bird_incentive_tracking_mockup.png" width="364" height="684">
