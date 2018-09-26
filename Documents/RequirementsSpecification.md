@@ -25,10 +25,10 @@ The application's main page will consist of a map with the locations of the diff
 
 ## 5.6 Example Images
 ### Figure 1: Bird Map Example
-![Figure 1: Bird Map Example](/images/Bird_station_status_mockup.png)
+![Figure 1: Bird Map Example](./images/Bird_station_status_mockup.png)
 
 ### Figure 2: Lime UI Example
-![Figure 2: Lime UI Example](/images/Lime_station_status_mockup.png)
+![Figure 2: Lime UI Example](./images/Lime_station_status_mockup.png)
 
 ### Figure 3: Other UI Example
-![Figure 3: Other UI](/images/figure3.png)
+![Figure 3: Other UI](./images/figure3.png)
