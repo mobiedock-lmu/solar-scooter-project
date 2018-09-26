@@ -16,6 +16,9 @@
 
 #### 4.4.1 GANTT Chart
 
+###### High Level Timeline
+![GANTT Chart](/images/high-level-timeline.png)
+
 #### 4.4.2 Task / Resource Table
 
 #### 4.4.3 Class Schedule
