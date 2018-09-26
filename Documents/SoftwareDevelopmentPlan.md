@@ -41,6 +41,8 @@ This Software Development Plan provides the details of the planned development f
 
 ## 4.4 Project Schedule
 
+This section provides schedule information for the Solar Charger Project.
+
 #### 4.4.1 GANTT Chart
 
 ###### High Level Timeline
@@ -49,6 +51,7 @@ This Software Development Plan provides the details of the planned development f
 #### 4.4.2 Task / Resource Table
 
 #### 4.4.3 Class Schedule
+This section has a brief class meeting schedule and what will be covered in each class.
 
 Date | Activities
 ------------ | -------------
