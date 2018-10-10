@@ -7,19 +7,31 @@ The application's main page will consist of a map with the locations of the diff
 
 ## 5.2  CSCI Component Breakdown
 
-**5.2.1** The main screen will feature a map
+CSCI Solar Charger Mobile Application is comprised of the following CSCs
 
-**5.2.2** The locations of each charge station will be shown on the map
+**5.2.1** Main Page GUI
 
-**5.2.3** If a specific station is selected, a popup with the following information will be shown:
+**5.2.2** Statistics Page GUI
 
-**5.2.4** Charge slot availability will be shown for each station
-
-**5.2.5** Scooter availability will be shown at each station
-
-**5.2.6** A photo of the area surrounding the station will be shown.
+**5.2.3** Rewards Page GUI
 
 ## 5.3  Functional Requirements by CSC
+
+### 5.3.1 Main Page GUI
+
+**5.3.1.1** The main page shall be displayed to the user upon opening the main application.
+
+**5.3.1.2** The main page shall consist of a map that displays icons of solar charging stations at their specific locations.
+
+**5.3.1.3** When a user taps a charger icon, a pop-up window shall display on the screen that displays charger information including: 1) Number of bays available 2) Ability to reserve a bay.
+
+**5.3.1.4** A circular menu button shall be on the bottom center of the screen.
+
+**5.3.1.5** When a user taps the button, a popup menu shall expand on the screen that displays icons and labels for other pages including: 1) Statistics 2) Rewards.
+
+### 5.3.2 Statistics Page GUI
+
+### 5.3.3 Rewards Page GUI
 
 ## 5.4  Performance Requirements by CSC
 
