@@ -50,6 +50,29 @@ This section provides schedule information for the Solar Charger Project.
 
 #### 4.4.2 Task / Resource Table
 
+##### Home Page
+
+Task | Owner | Software Resources
+------ | ------ | -------
+UX Design Mockups - Home Page | Ben, Emily |
+Front End Development - Home Page | CS Team |
+Google Maps Integration | TBD |
+
+##### Incentive Page
+
+Task | Owner | Software Resources
+------ | ------ | -------
+UX Design Mockups - Incentive Page | Ben, Emily |
+Front End Development - Incentive Page | CS Team |
+
+##### Statistics Page
+
+Task | Owner | Software Resources
+------ | ------ | -------
+UX Design Mockups - Statistics Page | Ben, Emily |
+Front End Development - Statistics Page | CS Team |
+
+
 #### 4.4.3 Class Schedule
 This section has a brief class meeting schedule and what will be covered in each class.
 
