@@ -46,7 +46,7 @@ This section provides schedule information for the Solar Charger Project.
 #### 4.4.1 GANTT Chart
 
 ###### High Level Timeline
-![GANTT Chart](images/high-level-timeline.png)
+![GANTT Chart](images/gantt.png)
 
 #### 4.4.2 Task / Resource Table
 
