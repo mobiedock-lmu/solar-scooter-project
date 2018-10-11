@@ -57,6 +57,7 @@ Task | Owner | Software Resources
 UX Design Mockups - Home Page | Ben, Emily |
 Front End Development - Home Page | CS Team |
 Google Maps Integration | TBD |
+Solar Edge Integration | TBD |
 
 ##### Incentive Page
 
@@ -64,6 +65,7 @@ Task | Owner | Software Resources
 ------ | ------ | -------
 UX Design Mockups - Incentive Page | Ben, Emily |
 Front End Development - Incentive Page | CS Team |
+Integration with Data | CS Team |
 
 ##### Statistics Page
 
@@ -71,6 +73,7 @@ Task | Owner | Software Resources
 ------ | ------ | -------
 UX Design Mockups - Statistics Page | Ben, Emily |
 Front End Development - Statistics Page | CS Team |
+Integration with Data | CS Team |
 
 
 #### 4.4.3 Class Schedule
