@@ -8,9 +8,12 @@ This Software Development Plan provides the details of the planned development f
 
 | Milestone  | Target Date | Status
 | ------------- | ------------- | ------------- |
-| Milestone 1  | mm/dd/yyyy  | not started |
-| Milestone 2  | mm/dd/yyyy | not started |
-| Milestone 3  | mm/dd/yyyy  | not started |
+| Design Mockups  | 10/14/2018  | done |
+| Maps Integration  | 11/04/2018 | in progress |
+| Home Page | 11/04/2018  | in progress |
+| Incentive Page | 11/18/2018  | not started |
+| User Page | 11/18/2018  | not started |
+| Database Design | 12/01/2018  | not started |
 
 #### 4.1.1 Project Deliverables
 
