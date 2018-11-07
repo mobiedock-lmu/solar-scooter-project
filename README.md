@@ -7,3 +7,20 @@ Our team is creating a mobile application to support an initiative to install so
 ### Phase 1 (Fall 2018)
 
 The Software Team will be creating an application with React Native to track locations of the charging stations. Each charging station location will include specifics on the number of open charge slots and the number of charged scooters available. There will also be pages to view statistics on energy saved, and incentives and rewards to use the charging stations.
+
+## Our Team
+
+### [Ben Davis](github.com/bdavs3)
+
+<img src="./Documents/images/ben.jpeg" width="150" height="150">
+
+### [Emily Shoji](github.com/itsEmShoji)
+
+<img src="./Documents/images/emily.jpeg" width="150" height="150">
+
+### [Danco Pidlaoan](github.com/danicobryan)
+
+<img src="./Documents/images/nico.jpeg" width="150" height="150"> 
+
+  
+
