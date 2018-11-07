@@ -63,4 +63,4 @@ Generally, the type of data the database will store will include: Locations, Adv
 
 **1.5 – Preliminary Entity-Relationship Diagram**
 
-![ERD](/images/ERD.png)
+![ERD](./images/ERD.png)
