@@ -13,8 +13,8 @@ Due to cross-team dependencies, and the uncertainty of when we'll have a working
 
 - Charging Station
 
-| Station ID | Model Number | Available Bays | Last Maintenance Date | Location | Operating Solar Efficiency |
-| --- | --- | --- | --- | --- |
+| Station ID | Model Number | Available Bays | Last Maintenance Date | Location | Solar Efficiency |
+| --- | --- | --- | --- | --- | --- |
 | Unique ID that can be used as the primary key... might want to generate randomly for security reasons | The model of this particular station (we'll probably have 2-3 models) | The number of open bays at this station | The last date this station was maintenanced | The geographical long/lat of the station's location | Solar output (as a percentage) |
 
 - Advertisement info (who the ad is from, info about ad content, dates it runs for, etc.)
@@ -26,7 +26,7 @@ Due to cross-team dependencies, and the uncertainty of when we'll have a working
 - Bays
 
 | Bay ID | Availability |
-| --- | --- | --- |
+| --- | --- |
 | Randomly generated unique ID | Boolean indicating whether a scooter can be placed in that bay |
 
 - Vehicle
@@ -37,8 +37,8 @@ Due to cross-team dependencies, and the uncertainty of when we'll have a working
 
 - Parts
 
-| Serial Number | Part name | Models | Purchase Date | Cost |
-| --- | --- | --- | --- | --- | --- |
+| Serial Number | Part name | Model(s) | Purchase Date | Cost |
+| --- | --- | --- | --- | --- |
 | Can be used as primary key | Helps describe the part | The station models the part is used in | When the part was purchased | The cost of the part |
 
 - Error Log
@@ -53,11 +53,11 @@ Due to cross-team dependencies, and the uncertainty of when we'll have a working
 | --- | --- |
 | Date of Occurrence | Type of error that occurred |
 
-- History
+- Ride History
 
 | Scooter ID | Start Location | End location | Ride Duration |
-| --- | --- | --- |
-| unique ID | starting location | end location after a ride |
+| --- | --- | --- | --- |
+| ID of the scooter for this entry | Ride start location | Ride end location | Ride duration |
 
 
 **2.3 – Final ERD**
