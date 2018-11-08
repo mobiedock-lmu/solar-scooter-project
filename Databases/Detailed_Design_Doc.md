@@ -5,51 +5,51 @@
 
 **2.2 – Data Dictionary, meaning a bullet list of the final tables/columns with a complete description of each**
 
-- Station info
+- Charging Station
 
-| Station ID | Location Name? | Longitude | Latitude | Part IDs |
+| Station ID | Model Number | Available Bays | Last Maintenance Date | Location | Operating Solar Efficiency |
 | --- | --- | --- | --- | --- |
-| Unique ID that can be used as the primary key... might want to generate randomly for security reasons | Descriptive name of where the station is located (e.g. Lincoln and Manchester Station, Manhattan Beach Pier Station) | The geographical longitude of the stations location | The geographical latitude of the stations location | IDs of the solar panels which are associated with this station |
+| Unique ID that can be used as the primary key... might want to generate randomly for security reasons | The model of this particular station (we'll probably have 2-3 models) | The number of open bays at this station | The last date this station was maintenanced | The geographical long/lat of the station's location | Solar output (as a percentage) |
 
 - Advertisement info (who the ad is from, info about ad content, dates it runs for, etc.)
 
-| Ad ID | Company | Start date | End date | Station IDs |
+| Ad ID | Company | Start date | End date | Station ID(s) |
 | --- | --- | --- | --- | --- |
 | Randomly generated unique ID | The company whom the ad belongs to | Day that the ad starts showing | Day that the ad ends showing | The stations which this particular ad will be displaying at |
 
 - Bays
 
-| Bay ID | Bay available | Vehicle ID |
+| Bay ID | Availability |
 | --- | --- | --- |
-| Randomly generated unique ID | A simple true / false that indicates whether a scooter can be placed in that bay | The ID of the scooter that is currently parked in a bay (if there is one) |
+| Randomly generated unique ID | Boolean indicating whether a scooter can be placed in that bay |
 
 - Vehicle
 
 | Vehicle ID | Vehicle Type | Cost | Location | In Use |
 | --- | --- | --- | --- | --- |
-| Randomly generated unique ID | Scooter or Bike | Cost of the Vehicle to ride | Location of vehicle | Boolean indicating if scooter is in use  |
+| Randomly generated unique ID | Electric scooter, electric bike, or manual bike | Cost of the Vehicle to ride | Location of vehicle | Boolean indicating if scooter is in use |
 
-- Parts - every single part that is being used in a station
+- Parts
 
-| Part ID | Part Number | Description | Station IDs | Purchase Date | Cost |
+| Serial Number | Part name | Models | Purchase Date | Cost |
 | --- | --- | --- | --- | --- | --- |
-| Randomly generated unique ID | The official part number | What the part does / what it is for | The station each part is associated with | When the part was purchased | The cost of the part |
+| Can be used as primary key | Helps describe the part | The station models the part is used in | When the part was purchased | The cost of the part |
 
 - Error Log
 
 | Date | Error ID | Description | Station ID |
 | --- | --- | --- | ---|
-| Date of Occurrence | Error ID number maps to Error Table | Description of Error | Station ID |
+| Date of Occurrence | Error ID number maps to Error Table | Description of Error | Station the error occurred at |
 
 - Errors
 
-| Error ID | Error Name|
+| Error ID | Error Name |
 | --- | --- |
-| Date of Occurrence | Error ID number maps to Error Table |
+| Date of Occurrence | Type of error that occurred |
 
 - History
 
-| Scooter ID | Start Location | End location |
+| Scooter ID | Start Location | End location | Ride Duration |
 | --- | --- | --- |
 | unique ID | starting location | end location after a ride |
 
