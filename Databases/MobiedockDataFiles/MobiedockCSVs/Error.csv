@@ -1,5 +1,4 @@
-﻿error_id,error_name,description
-E1,Solar Panel Error,"input or output error, damage to panel"
+﻿E1,Solar Panel Error,"input or output error, damage to panel"
 E2,Grid Connection Error,input or output error
 E3,Bay Error,"Scooter Stuck, incorrectly marked as open/closed"
 E4,Charging Error,scooter not being charged

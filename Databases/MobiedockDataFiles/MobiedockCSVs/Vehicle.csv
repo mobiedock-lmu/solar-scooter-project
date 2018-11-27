@@ -1,5 +1,4 @@
-﻿vehicle_id,vehicle_type,cost,location_id,in_use
-S1,scooter,1,L1,TRUE
+﻿S1,scooter,1,L1,TRUE
 S2,scooter,1,L2,FALSE
 S3,scooter,1,L3,TRUE
 S4,scooter,1,L4,FALSE
