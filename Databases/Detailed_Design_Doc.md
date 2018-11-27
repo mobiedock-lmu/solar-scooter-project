@@ -149,3 +149,22 @@ In the "Databases" folder of this repository, download the "backup" file.
 
 #### Using pgAdmin 4
 
+Open pgAdmin 4. The interface should appear on a new browser window.
+
+On the left browser pane, navigate to the "Databases" by clicking the + buttons and go to Server > PostgreSQL 11 > Databases.
+
+Create a new database by right clicking on "Databases" then "Create" > "Database".
+
+Name the database then click "Save".
+
+Click the + next to "Databases" to view all your databases, then click the database you just named and created.
+
+On the top navigation bar, click "Tools" > "Restore".
+
+Click the "..." next to Filename and select the backup.dms file. (Note: you may have to select "All Files" next to "Format" to view and find the file).
+
+Click "Restore".
+
+A message should appear reading "Successfully completed" in green when completed.
+
+#### Run Queries
