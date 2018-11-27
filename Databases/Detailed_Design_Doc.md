@@ -13,9 +13,16 @@ Due to cross-team dependencies, and the uncertainty of when we'll have a working
 
 - Charging Station
 
-| Station ID | Model Number | Available Bays | Last Maintenance Date | Location | Solar Efficiency |
+| Station ID | Model Number | Available Bays | Last Maintenance Date | Location ID | Solar Efficiency |
 | --- | --- | --- | --- | --- | --- |
-| Unique ID that can be used as the primary key... might want to generate randomly for security reasons | The model of this particular station (we'll probably have 2-3 models) | The number of open bays at this station | The last date this station was maintenanced | The geographical long/lat of the station's location | Solar output (as a percentage) |
+| Unique ID that can be used as the primary key... might want to generate randomly for security reasons | The model of this particular station (we'll probably have 2-3 models) | The number of open bays at this station | The last date this station was maintenanced | ID connecting to the Locations table | Solar output (as a percentage) |
+
+- Locations
+
+| Location ID | Longitude | Latitude |
+| --- | --- | --- |
+| Randomly generated unique ID | Longitude of station location | Latitude of station location |
+
 
 - Advertisement info (who the ad is from, info about ad content, dates it runs for, etc.)
 
@@ -23,11 +30,24 @@ Due to cross-team dependencies, and the uncertainty of when we'll have a working
 | --- | --- | --- | --- | --- |
 | Randomly generated unique ID | The company whom the ad belongs to | Day that the ad starts showing | Day that the ad ends showing | The stations which this particular ad will be displaying at |
 
+- Ad Company info
+
+| Company | Phone Number | Ad ID | Station ID(s) |
+| --- | --- | --- | --- | --- |
+| Company Name | Phone number/contact info for company | Randomly generated unique ID| The stations which this particular ad will be displaying at |
+
 - Bays
 
 | Bay ID | Availability | Station ID |
 | --- | --- | --- |
 | Randomly generated unique ID | Boolean indicating whether a scooter can be placed in that bay | Unique ID of the station the bay belongs to|
+
+- Station Model info
+
+| Station ID | Model Number | Parts | Total Bays |
+| --- | --- | --- | --- |
+| Randomly generated unique ID | Model Number | connects to Parts Table | Total Number of Bays |
+
 
 - Vehicle
 
@@ -62,4 +82,4 @@ Due to cross-team dependencies, and the uncertainty of when we'll have a working
 
 **2.3 – Final ERD**
 
-![ERD](./images/ERD2.png)
+![ERD](./images/ERD-final.png)
