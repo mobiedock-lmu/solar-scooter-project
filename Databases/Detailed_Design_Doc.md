@@ -1,4 +1,4 @@
-# Detailed Design Doc #
+# Detailed Design Document
 ## Solar Scooter Project
 
 **2.1 – Project description**
