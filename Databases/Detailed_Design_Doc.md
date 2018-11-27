@@ -83,3 +83,52 @@ Due to cross-team dependencies, and the uncertainty of when we'll have a working
 **2.3 – Final ERD**
 
 ![ERD](./images/ERD-final.png)
+
+
+**Example Queries**
+
+1. count all available bays
+```*.PostgreSQL
+    SELECT COUNT(bay_id)
+    FROM bayavailable
+    WHERE availability = True
+```
+
+2. display all available bays from station S4
+```*.PostgreSQL
+    SELECT bay_id
+    FROM bayavailable
+    WHERE station_id = ‘S4’
+```
+
+3. calculate average cost of vehicle rental
+``` *.PostgreSQL
+    SELECT AVG(vehicle_cost)
+    FROM vehicle
+```
+
+4. select each vehicle and their cost to rent
+``` *.PostgreSQL
+    SELECT DISTINCT vehicle_type, vehicle_cost
+    FROM vehicle
+```
+
+5. view error table
+``` *.PostgreSQL
+    SELECT *
+    FROM error
+```
+
+6. show error log entries where error_id is E1
+``` *.PostgreSQL
+    SELECT *
+    FROM errorlog
+    WHERE error_id = ‘E1’
+```
+
+7. show each available bay for charging station S3
+``` *.PostgreSQL
+    SELECT chargingstation.station_id, location_id, bay_id, availability
+    FROM chargingstation INNER JOIN bayavailable ON (chargingstation.station_id = bayavailable.station_id)
+    WHERE chargingstation.station_id = ‘S3’;
+```
