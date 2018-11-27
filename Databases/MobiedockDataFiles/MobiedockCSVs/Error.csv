@@ -1,0 +1,11 @@
+﻿Error ID,Error Name,Description
+E1,Solar Panel Error,"input or output error, damage to panel"
+E2,Grid Connection Error,input or output error
+E3,Bay Error,"Scooter Stuck, incorrectly marked as open/closed"
+E4,Charging Error,scooter not being charged
+E5,Advertisement Error,"Ad not playing,video/image glitching"
+E6,Screen Error,"Screen broken, damaged"
+E7,Station Unavaliable,Station shut off/broken
+E8,Part Error,Some part is damaged/needs maintenance
+E9,Other Error (Minor),"Small damage, needs maintenance eventually"
+E10,Other Error (Major),Needs maintenance immediatley
