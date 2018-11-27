@@ -137,34 +137,34 @@ Due to cross-team dependencies, and the uncertainty of when we'll have a working
 
 #### Download PostgreSQL
 
-Follow this link to [download PostgreSQL](https://www.postgresql.org).
+* Follow this link to [download PostgreSQL](https://www.postgresql.org).
 
-Click "Download" then choose the dowload link for your appropriate operating system. Follow instructions given when downloaded.
+* Click "Download" then choose the dowload link for your appropriate operating system. Follow instructions given when downloaded.
 
-The download package should include an application called pgAdmin 4. If you are having trouble installing or finding this application, follow [this link](https://www.pgadmin.org/download/) to download and install pgAdmin 4.
+* The download package should include an application called pgAdmin 4. If you are having trouble installing or finding this application, follow [this link](https://www.pgadmin.org/download/) to download and install pgAdmin 4.
 
 #### Download Database
 
-In the "Databases" folder of this repository, download the "backup" file.
+* In the "Databases" folder of this repository, download the "backup" file.
 
 #### Using pgAdmin 4
 
-Open pgAdmin 4. The interface should appear on a new browser window.
+* Open pgAdmin 4. The interface should appear on a new browser window.
 
-On the left browser pane, navigate to the "Databases" by clicking the + buttons and go to Server > PostgreSQL 11 > Databases.
+* On the left browser pane, navigate to the "Databases" by clicking the + buttons and go to Server > PostgreSQL 11 > Databases.
 
-Create a new database by right clicking on "Databases" then "Create" > "Database".
+* Create a new database by right clicking on "Databases" then "Create" > "Database".
 
-Name the database then click "Save".
+* Name the database then click "Save".
 
-Click the + next to "Databases" to view all your databases, then click the database you just named and created.
+* Click the + next to "Databases" to view all your databases, then click the database you just named and created.
 
-On the top navigation bar, click "Tools" > "Restore".
+* On the top navigation bar, click "Tools" > "Restore".
 
-Click the "..." next to Filename and select the backup.dms file. (Note: you may have to select "All Files" next to "Format" to view and find the file).
+* Click the "..." next to Filename and select the backup.dms file. (Note: you may have to select "All Files" next to "Format" to view and find the file).
 
-Click "Restore".
+* Click "Restore".
 
-A message should appear reading "Successfully completed" in green when completed.
+* A message should appear reading "Successfully completed" in green when completed.
 
-To run queries, Select "Tools" > "Query Tool" from the top navigation bar. Type in a query and click the lightning bolt button to run.
+* To run queries, Select "Tools" > "Query Tool" from the top navigation bar. Type in a query and click the lightning bolt button to run.
