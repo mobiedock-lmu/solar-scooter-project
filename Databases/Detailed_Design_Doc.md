@@ -85,7 +85,7 @@ Due to cross-team dependencies, and the uncertainty of when we'll have a working
 ![ERD](./images/ERD-final.png)
 
 
-#### Example Queries
+## Example Queries
 
 1. count all available bays
 ```*.PostgreSQL
