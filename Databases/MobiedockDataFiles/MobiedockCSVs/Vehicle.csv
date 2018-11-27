@@ -1,0 +1,16 @@
+﻿vehicle_id,vehicle_type,cost,location_id,in_use
+S1,scooter,1,L1,TRUE
+S2,scooter,1,L2,FALSE
+S3,scooter,1,L3,TRUE
+S4,scooter,1,L4,FALSE
+S5,scooter,1,L2,TRUE
+B1,electric bike,2.5,L3,FALSE
+B2,electric bike,2.5,L5,TRUE
+B3,electric bike,2.5,L1,FALSE
+B4,electric bike,2.5,L1,TRUE
+B5,electric bike,2.5,L2,FALSE
+M1,manual bike,0.5,L3,TRUE
+M2,manual bike,0.5,L4,FALSE
+M3,manual bike,0.5,L2,TRUE
+M4,manual bike,0.5,L2,FALSE
+M5,manual bike,0.5,L5,TRUE
