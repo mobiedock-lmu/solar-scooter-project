@@ -167,4 +167,4 @@ Click "Restore".
 
 A message should appear reading "Successfully completed" in green when completed.
 
-#### Run Queries
+To run queries, Select "Tools" > "Query Tool" from the top navigation bar. Type in a query and click the lightning bolt button to run.
