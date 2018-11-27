@@ -25,9 +25,9 @@ Due to cross-team dependencies, and the uncertainty of when we'll have a working
 
 - Bays
 
-| Bay ID | Availability |
-| --- | --- |
-| Randomly generated unique ID | Boolean indicating whether a scooter can be placed in that bay |
+| Bay ID | Availability | Station ID |
+| --- | --- | --- |
+| Randomly generated unique ID | Boolean indicating whether a scooter can be placed in that bay | Unique ID of the station the bay belongs to|
 
 - Vehicle
 
