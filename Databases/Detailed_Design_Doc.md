@@ -33,7 +33,7 @@ Due to cross-team dependencies, and the uncertainty of when we'll have a working
 - Ad Company info
 
 | Company | Phone Number | Ad ID | Station ID(s) |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | Company Name | Phone number/contact info for company | Randomly generated unique ID| The stations which this particular ad will be displaying at |
 
 - Bays
