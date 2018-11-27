@@ -1,5 +1,4 @@
-# Detailed Design Document
-## Solar Scooter Project
+# Detailed Design Document - Solar Scooter Project
 
 ## 2.1 – Project Description
 In our project, we won't have enough connections between entities to necessitate a graph database, and the entities won't have enough attributes to necessitate a document-based database. Thus, a simple relational database will do the job.  We'll be using [PostgreSQL](https://www.postgresql.org/) because of its strong user-base, focus on strong documentation (there are 3500+ page manuals available for free), and open-source nature.
@@ -133,3 +132,20 @@ Due to cross-team dependencies, and the uncertainty of when we'll have a working
     FROM chargingstation INNER JOIN bayavailable ON (chargingstation.station_id = bayavailable.station_id)
     WHERE chargingstation.station_id = ‘S3’;
 ```
+
+## User Guide
+
+#### Download PostgreSQL
+
+Follow this link to [download PostgreSQL](https://www.postgresql.org).
+
+Click "Download" then choose the dowload link for your appropriate operating system. Follow instructions given when downloaded.
+
+The download package should include an application called pgAdmin 4. If you are having trouble installing or finding this application, follow [this link](https://www.pgadmin.org/download/) to download and install pgAdmin 4.
+
+#### Download Database
+
+In the "Databases" folder of this repository, download the "backup" file.
+
+#### Using pgAdmin 4
+
