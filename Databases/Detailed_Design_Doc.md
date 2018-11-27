@@ -1,5 +1,5 @@
-# Detailed Design Doc #
-## Solar Scooter Project##
+# Detailed Design Document
+## Solar Scooter Project
 
 **2.1 – Project description**
 In our project, we won't have enough connections between entities to necessitate a graph database, and the entities won't have enough attributes to necessitate a document-based database. Thus, a simple relational database will do the job.  We'll be using [PostgreSQL](https://www.postgresql.org/) because of its strong user-base, focus on strong documentation (there are 3500+ page manuals available for free), and open-source nature.
