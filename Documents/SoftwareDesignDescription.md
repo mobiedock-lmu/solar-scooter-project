@@ -10,14 +10,18 @@ MobieDock will allow users to interact with and locate nearby charging locations
 
 ### 6.1.2     Hardware, Software, and Human Interfaces
 
-**6.2.1 Hardware** The application will run on will mainly be iOS devives, but future plans are developing to optimize for Android as well.
+#### 6.2.1 Hardware 
 
-**6.2.2 Software** The Front End of the application will be built using React Native. The Back End of the application will contain a PostgreSQL Database which will record and track relevant data such as bay and charging station data, error logs, and advertisement data (See Section 6.4 for more details).
+The application will run on will mainly be iOS devives, but future plans are developing to optimize for Android as well.
 
-**6.2.3 Human Interfaces** 
+#### 6.2.2 Software 
+
+The Front End of the application will be built using React Native. The Back End of the application will contain a PostgreSQL Database which will record and track relevant data such as bay and charging station data, error logs, and advertisement data (See Section 6.4 for more details).
+
+#### 6.2.3 Human Interfaces
 
 ##### Figure 1: Bird - Station Status Example 1
-<img src="./images/Bird_station_status_mockup.png" height="400">
+<img src="./images/homescreen-mockup.png" height="400">
 
 ##### Figure 2: Lime - Station Status Example 2
 <img src="./images/Lime_station_status_mockup.png" height="400">
