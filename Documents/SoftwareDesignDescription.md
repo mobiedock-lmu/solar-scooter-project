@@ -17,13 +17,13 @@ MobieDock will allow users to interact with and locate nearby charging locations
 **6.2.3 Human Interfaces** 
 
 ##### Figure 1: Bird - Station Status Example 1
-<img src="./images/Bird_station_status_mockup.png" height="300">
+<img src="./images/Bird_station_status_mockup.png" height="400">
 
 ##### Figure 2: Lime - Station Status Example 2
-<img src="./images/Lime_station_status_mockup.png" height="300">
+<img src="./images/Lime_station_status_mockup.png" height="400">
 
 ##### Figure 3: Bird - Incentive Tracking
-<img src="./images/Bird_incentive_tracking_mockup.png" height="300">
+<img src="./images/Bird_incentive_tracking_mockup.png" height="400">
 
 ## 6.2       Architectural Design
 
