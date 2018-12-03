@@ -2,10 +2,13 @@
 
 ## 6.1 Introduction
 
+MobieDock is a mobile iOS application that will allow users to locate and interact with solar powered charging stations for electric scooters, which will be installed in the Los Angeles area. The application will be built using React Native, will contain a PostgreSQL Database, and will be a stand alone application. Future plans are developing to integrate with Bird and Lime scooter applications.  
+
 ### 6.1.1     System Objectives
 
-### 6.1.2     Hardware, Software, and Human Interfaces
+MobieDock will allow users to interact with and locate nearby charging locations for their electric scooter or bike rented through Bird, Lime, or similar services. Users can see how many bays are avilable and reserve bays through the application. Users can earn incentives and rewards for using the charging stations, and can see statistics on how much energy they are saving. Companies can work with MobieDock to place rewards or advertisements on the app, and electric scooter companies can access charging station data. 
 
+### 6.1.2     Hardware, Software, and Human Interfaces
 
 ## 6.2       Architectural Design
 
@@ -14,7 +17,6 @@
 ### 6.2.2     Major Software Interactions
 
 ### 6.2.3     Architectural Design Diagrams
-
 
 ## 6.3.      CSC and CSU Descriptions
 
