@@ -1,4 +1,4 @@
-# Solar Powered Electric Scooter Charging Station - MOBILE APPLICATION
+# MobieDock
 
 ## About The Project
 
