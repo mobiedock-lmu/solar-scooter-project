@@ -82,7 +82,7 @@ Task | Owner | Software Resources
 ------ | ------ | -------
 UX Design Mockups - Statistics Page | Ben, Emily | [Moqups](moqups.com)
 Front End Development - Statistics Page | CS Team | [React Native](https://facebook.github.io/react-native/)
-Integration with Data | CS Team | [Coord API](coord.co)
+Integration with Data | CS Team | [PostgreSQL](https://www.postgresql.org), [Coord API](coord.co)
 
 
 #### 4.4.3 Class Schedule
