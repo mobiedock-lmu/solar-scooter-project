@@ -28,9 +28,7 @@ The Front End of the application will be built using React Native. The Back End 
 
 <img src="./images/station-menu.png" height="500">
 
-**6.2.3.3 -- Charging Station Menu:**
 
-<img src="./images/Bird_incentive_tracking_mockup.png" height="500">
 
 ## 6.2       Architectural Design
 
