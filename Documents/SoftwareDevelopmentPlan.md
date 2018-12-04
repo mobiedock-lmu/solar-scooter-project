@@ -15,7 +15,7 @@ This Software Development Plan provides the details of the planned development f
 | User Page | rescheduled for Spring 2019  | not started |
 | Database Design | 12/01/2018  | ✅ done |
 
-#### 4.1.1 Project Deliverables
+### 4.1.1 Project Deliverables
 
 ## 4.2 Project Resources
 
@@ -32,13 +32,20 @@ This Software Development Plan provides the details of the planned development f
 | Billy Walker     | Mechanical Engineering | Team Lead       | TBD |
 | Masaki Takamatsu | Mechanical Engineering | Design Lead     | TBD |
 | Charity Waddy    | Mechanical Engineering | Operations Lead | TBD |
-| Andre DeLeon     | Mechanical Engineering |                 | TBD |
-| Ahmed Kalifeh    | Mechanical Engineering |                 | TBD |
+| Andre DeLeon     | Mechanical Engineering | Engineer        | TBD |
+| Ahmed Kalifeh    | Mechanical Engineering | Engineer        | TBD |
 | Matt Tejada      | Entrepreneurship       | Business Lead   | TBD |
 
-#### 4.2.1 Hardware Resources
+### 4.2.1 Hardware Resources
 
-#### 4.2.2 Software Resources
+### 4.2.2 Software Resources
+
+|   Resource       | Development  | Execution  | 
+| ---------------- | -------------| -----------|
+| XCode            |  ✖️          |         |
+| PostgreSQL       |  ✖️          |  ✖️       |
+
+
 
 ## 4.3 Project Organization
 
