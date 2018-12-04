@@ -19,6 +19,19 @@ This Software Development Plan provides the details of the planned development f
 
 ## 4.2 Project Resources
 
+### 4.2.1 Hardware Resources
+
+### 4.2.2 Software Resources
+
+|   Resource       | Development  | Execution  | 
+| ---------------- | -------------| -----------|
+| XCode            |  ✖️          |         |
+| PostgreSQL       |  ✖️          |  ✖️     |
+| pgAdmin 4        |  ✖️          |         |
+
+
+## 4.3 Project Organization
+
 ### Software Team
 |   Team Member    |         Department     |      Role       | Responsibilities |
 | ---------------- | ---------------------- | --------------- | ---------------- |
@@ -35,19 +48,6 @@ This Software Development Plan provides the details of the planned development f
 | Andre DeLeon     | Mechanical Engineering | Engineer        | TBD |
 | Ahmed Kalifeh    | Mechanical Engineering | Engineer        | TBD |
 | Matt Tejada      | Entrepreneurship       | Business Lead   | TBD |
-
-### 4.2.1 Hardware Resources
-
-### 4.2.2 Software Resources
-
-|   Resource       | Development  | Execution  | 
-| ---------------- | -------------| -----------|
-| XCode            |  ✖️          |         |
-| PostgreSQL       |  ✖️          |  ✖️       |
-
-
-
-## 4.3 Project Organization
 
 ## 4.4 Project Schedule
 
