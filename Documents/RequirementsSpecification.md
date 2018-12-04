@@ -43,10 +43,10 @@ CSCI Solar Charger Mobile Application is comprised of the following CSCs
 
 ## 5.6 Example Images
 ### Figure 1: Bird - Station Status Example 1
-<img src="./images/Bird_station_status_mockup.png" width="364" height="684">
+<img src="./images/mockups/originals/Bird_station_status_mockup.png" width="364" height="684">
 
 ### Figure 2: Lime - Station Status Example 2
-<img src="./images/Lime_station_status_mockup.png" width="364" height="684">
+<img src="./images/mockups/originals/Lime_station_status_mockup.png" width="364" height="684">
 
 ### Figure 3: Bird - Incentive Tracking
-<img src="./images/Bird_incentive_tracking_mockup.png" width="364" height="684">
+<img src="./images/mockups/originals/Bird_incentive_tracking_mockup.png" width="364" height="684">

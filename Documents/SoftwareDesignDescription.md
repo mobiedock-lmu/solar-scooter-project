@@ -6,15 +6,15 @@ MobieDock is a mobile iOS application that will allow users to locate and intera
 
 ### 6.1.1     System Objectives
 
-MobieDock will allow users to interact with and locate nearby charging locations for their electric scooter or bike rented through Bird, Lime, or similar services. Users can see how many bays are avilable and reserve bays through the application. Users can earn incentives and rewards for using the charging stations, and can see statistics on how much energy they are saving. Companies can work with MobieDock to place rewards or advertisements on the app, and electric scooter companies can access charging station data. 
+MobieDock will allow users to interact with and locate nearby charging locations for their electric scooter or bike rented through Bird, Lime, or similar services. Users can see how many bays are avilable and reserve bays through the application. Users can earn incentives and rewards for using the charging stations, and can see statistics on how much energy they are saving. Companies can work with MobieDock to place rewards or advertisements on the app, and electric scooter companies can access charging station data.
 
 ### 6.1.2     Hardware, Software, and Human Interfaces
 
-#### 6.2.1 Hardware 
+#### 6.2.1 Hardware
 
 The application will run on will mainly be iOS devives, but future plans are developing to optimize for Android as well.
 
-#### 6.2.2 Software 
+#### 6.2.2 Software
 
 The Front End of the application will be built using React Native. The Back End of the application will contain a PostgreSQL Database which will record and track relevant data such as bay and charging station data, error logs, and advertisement data (See Section 6.4 for more details).
 
@@ -22,11 +22,11 @@ The Front End of the application will be built using React Native. The Back End 
 
 **6.2.3.1 -- Home Page:** This screen shall be displayed upon opening the application. There shall be a map that displays scooter, bikes, and charger locations. The user can locate the nearest charger on/or bike/scooter. When a user clicks a charging station, a popup screen shows a street view of the charging station, allows for location info to be shared to another user, and indicates the number of available bays at the station. A collapsable menu will allow for navigation to other pages. (See figures below)
 
-<img src="./images/homepage-1.png" height="500" style="display: inline-block;">
- 
+<img src="./images/mockups/homepage-1.png" height="500" style="display: inline-block;">
+
 **6.2.3.2 -- Charging Station Menu:** When a user clicks on a charging station icon, a pop up menu will appear. This allows the user to reserve a bay, start a trip, report problems at the bay, and earn rewards. There will also be a warning for traffic, data on distance of trip, and a display of the assigned dock.
 
-<img src="./images/station-menu.png" height="500">
+<img src="./images/mockups/station-menu.png" height="500">
 
 
 
