@@ -20,10 +20,10 @@ The Front End of the application will be built using React Native. The Back End 
 
 #### 6.2.3 Human Interfaces
 
-##### Figure 1: Home Screen
-<img src="./images/homescreen-mockup.png" height="400">
+**Home Page:** This screen shall be displayed upon opening the application. There shall be a map that displays scooter, bikes, and charger locations. The user can locate the nearest charger on/or bike/scooter. When a user clicks a charging station, a popup screen shows a street view of the charging station, allows for location info to be shared to another user, and indicates the number of available bays at the station.
 
-**Home Page:** This screen shall be displayed upon opening the application. 
+<img src="./images/homescreen-mockup.png" height="400">
+ 
 
 ##### Figure 2: Lime - Station Status Example 2
 <img src="./images/Lime_station_status_mockup.png" height="400">
