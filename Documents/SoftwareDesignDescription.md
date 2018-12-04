@@ -20,8 +20,10 @@ The Front End of the application will be built using React Native. The Back End 
 
 #### 6.2.3 Human Interfaces
 
-##### Figure 1: Bird - Station Status Example 1
+##### Figure 1: Home Screen
 <img src="./images/homescreen-mockup.png" height="400">
+
+**Home Page:** This screen shall be displayed upon opening the application. 
 
 ##### Figure 2: Lime - Station Status Example 2
 <img src="./images/Lime_station_status_mockup.png" height="400">
