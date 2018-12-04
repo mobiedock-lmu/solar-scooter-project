@@ -72,17 +72,17 @@ Solar Edge Integration | TBD |
 
 Task | Owner | Software Resources
 ------ | ------ | -------
-UX Design Mockups - Incentive Page | Ben, Emily |
-Front End Development - Incentive Page | CS Team |
-Integration with Data | CS Team |
+UX Design Mockups - Incentive Page | Ben, Emily | [Moqups](moqups.com)
+Front End Development - Incentive Page | CS Team | [React Native](https://facebook.github.io/react-native/)
+Integration with Data | CS Team | [PostgreSQL](https://www.postgresql.org/), [Coord API](coord.co)
 
 ##### Statistics Page
 
 Task | Owner | Software Resources
 ------ | ------ | -------
-UX Design Mockups - Statistics Page | Ben, Emily |
-Front End Development - Statistics Page | CS Team |
-Integration with Data | CS Team |
+UX Design Mockups - Statistics Page | Ben, Emily | [Moqups](moqups.com)
+Front End Development - Statistics Page | CS Team | [React Native](https://facebook.github.io/react-native/)
+Integration with Data | CS Team | [Coord API](coord.co)
 
 
 #### 4.4.3 Class Schedule
