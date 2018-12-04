@@ -4,16 +4,6 @@
 
 This Software Development Plan provides the details of the planned development for MobieDock, which provides a mobile interface for users to track locations of charging stations, the amount of charge per scooter, and data regarding energy saved/used.
 
-##### Milestones
-
-| Milestone  | Target Date | Status
-| ------------- | ------------- | ------------- |
-| Design Mockups  | 10/14/2018  | ✅ done |
-| Maps Integration  | 11/04/2018 | in progress |
-| Home Page | rescheduled for Spring 2019  | in progress |
-| Incentive Page | rescheduled for Spring 2019  | not started |
-| User Page | rescheduled for Spring 2019  | not started |
-| Database Design | 12/01/2018  | ✅ done |
 
 ### 4.1.1 Project Deliverables
 
