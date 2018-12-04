@@ -20,15 +20,16 @@ The Front End of the application will be built using React Native. The Back End 
 
 #### 6.2.3 Human Interfaces
 
-**Home Page:** This screen shall be displayed upon opening the application. There shall be a map that displays scooter, bikes, and charger locations. The user can locate the nearest charger on/or bike/scooter. When a user clicks a charging station, a popup screen shows a street view of the charging station, allows for location info to be shared to another user, and indicates the number of available bays at the station. A collapsable menu will allow for navigation to other pages. (See figures below)
+**6.2.3.1 -- Home Page:** This screen shall be displayed upon opening the application. There shall be a map that displays scooter, bikes, and charger locations. The user can locate the nearest charger on/or bike/scooter. When a user clicks a charging station, a popup screen shows a street view of the charging station, allows for location info to be shared to another user, and indicates the number of available bays at the station. A collapsable menu will allow for navigation to other pages. (See figures below)
 
 <img src="./images/homepage-1.png" height="500" style="display: inline-block;">
  
-**Charging Station Menu:** When a user clicks on a charging station icon, a pop up menu will appear. This allows the user to reserve a bay, start a trip, report problems at the bay, and earn rewards. There will also be a warning for traffic, data on distance of trip, and a display of the assigned dock.
+**6.2.3.2 -- Charging Station Menu:** When a user clicks on a charging station icon, a pop up menu will appear. This allows the user to reserve a bay, start a trip, report problems at the bay, and earn rewards. There will also be a warning for traffic, data on distance of trip, and a display of the assigned dock.
 
 <img src="./images/station-menu.png" height="500">
 
-##### Figure 3: Bird - Incentive Tracking
+**6.2.3.3 -- Charging Station Menu:**
+
 <img src="./images/Bird_incentive_tracking_mockup.png" height="500">
 
 ## 6.2       Architectural Design
