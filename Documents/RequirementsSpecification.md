@@ -43,7 +43,7 @@ CSCI Solar Charger Mobile Application is comprised of the following CSCs
 
 ## 5.6 Example Images
 ### Figure 1: Bird - Station Status Example 1
-<img src="./images/mockups/Original/Bird_station_status_mockup.png" width="364" height="684">
+<img src="./images/mockups/Originals/Bird_station_status_mockup.png" width="364" height="684">
 
 ### Figure 2: Lime - Station Status Example 2
 <img src="./images/mockups/Originals/Lime_station_status_mockup.png" width="364" height="684">
