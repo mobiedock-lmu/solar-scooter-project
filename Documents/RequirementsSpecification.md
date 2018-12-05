@@ -107,6 +107,20 @@ The Database for the mobile application will track data relevant to the charging
 
 * The charging station menu shall display a button for the user to reserve a bay.
 
+#### 5.3.1.4 User Menu
+
+* The user menu shall display a window when a user clicks on the user menu button on the bottom of the main page.
+
+* The user menu shall take up most of the screen with small margins on all sides, and shall not cover the circular user menu button on the bottom of the screen.
+
+* The user menu shall display tabs on the top of the window for the user to select a subpage. The tabs include: 1) Statistics 2) Rewards 3) Heatmap
+
+#### 5.3.1.5 Statistics Subpage 
+
+* The statistics subpage shall display within the user menu window when a user clicks on the "Statistics" button on the top of the user menu window.
+
+* The statistics subpage shall display statistics on charging station data and user data (*Note:* These specific statistics shall be finalized when partnering with electric scooter companies and with further discussions with the engineering teams. Example statistics may include: Amount of energy saved by using charging stations, number of stations used this week, and miles traveled).
+
 
 ### 5.3.2 Database
 
