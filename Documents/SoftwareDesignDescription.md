@@ -34,10 +34,6 @@ Statistics | Rewards | Heatmap
 :---------:|:----------:|:----------:
 <img src="./images/mockups/stats.png" height="400"> | <img src="./images/mockups/rewards.png" height="400">|<img src="./images/mockups/heatmap.png" height="400">
 
-<img src="./images/mockups/stats.png" height="500">
-<img src="./images/mockups/rewards.png" height="500">
-<img src="./images/mockups/heatmap.png" height="500">
-
 ## 6.2       Architectural Design
 
 ### 6.2.1     Major Software Components
