@@ -115,6 +115,8 @@ The Database for the mobile application will track data relevant to the charging
 
 * The user menu shall display tabs on the top of the window for the user to select a subpage. The tabs include: 1) Statistics 2) Rewards 3) Heatmap
 
+* The user menu shall stop displaying if open when the user clicks on the user menu button on the bottom of the screen.
+
 #### 5.3.1.5 Statistics Subpage 
 
 * The statistics subpage shall display within the user menu window when a user clicks on the "Statistics" button on the top of the user menu window.
@@ -123,7 +125,7 @@ The Database for the mobile application will track data relevant to the charging
 
 #### 5.3.1.6 Rewards Subpage 
 
-* The rewards subpage shall display within the user menu window when a user clicks on the "Statistics" button on the top of the user menu window.
+* The rewards subpage shall display within the user menu window when a user clicks on the "Rewards" button on the top of the user menu window.
 
 * The rewards subpage shall display the rewards availble for a user to achieve in a list-like view.
 
@@ -135,6 +137,15 @@ The Database for the mobile application will track data relevant to the charging
 
 * The rewards subpage shall implement a page scrolling functionality within the user menu window.
 
+#### 5.3.1.6 Heatmap Subpage
+
+* The heatmap subpage shall display within the user menu window when a user clicks on the "Heatmap" button on the top of the user menu window.
+
+* The heatmap subpage shall display a map, with default location set to the user's current location.
+
+* The heatmap subpage shall display colored areas on the map that correspond to the most used areas and charging stations.
+
+* The heatmap subpage map shall include scrolling, zooming, and panning fuctionality.
 
 ### 5.3.2 Database
 
