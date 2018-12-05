@@ -79,6 +79,27 @@ The Database for the mobile application will track data relevant to the charging
 
 * The charging station menu shall take up most of the screen with small margins on all sides, and shall not cover the circular user menu button on the bottom of the screen.
 
+* The charging station menu shall display the street view of the charging station location which will pan accordingly to any finger swiping interaction with the viewing window.
+
+* The charging station menu shall display the location name of the charging station.
+
+* The charging station menu shall display the location coordinates of the charging station.
+
+* The charging station menu shall display the distance in miles of the charging station from the user.
+
+* The charging station menu shall display the distance in minutes of the charging station from the user.
+
+* The charging station menu shall display an announcement to the user to earn a reward for using the station.
+
+* The charging station menu shall display a warning for heavy traffic if necessary.
+
+* The charging station menu shall display the assigned bay number for the user.
+
+* The charging station menu shall provide a link for the user to report any problems with the application or charging station.
+
+* The charging station menu shall display a button for the user to start their trip.
+
+* The charging station menu shall display a button for the user to reserve a bay.
 
 
 ### 5.3.2 Database
