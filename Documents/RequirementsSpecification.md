@@ -47,15 +47,24 @@ The Database for the mobile application will track data relevant to the charging
 
 #### 5.3.1.2 Charging Station Preview
 
-* When a user taps a charger icon on the Main Page, a small rectangular pop-up window shall expand from the charging station icon.
+* The charging station preview shall appear when a user taps a charger icon on the main page.
 
-* The Main Page charging station pop-up menu shall display the street view of the charging station location
+* The charging station preview shall cover roughly 1/4 the screen's width.
+
+* The charging station preview shall display the street view of the charging station location.
+
+* The charging station preview shall display a button to open the location on the Google Maps mobile application.
+
+* The charging station preview shall display a button to open the charging station menu.
+
+* The charging station preview shall display the location name of the selected charging station.
+
+* The charging station preview shall display how many bays are available at the seleted charging station.
 
 
 
-### 5.3.2 Statistics Page GUI
+### 5.3.2 Database
 
-### 5.3.3 Rewards Page GUI
 
 ## 5.4  Performance Requirements by CSC
 
