@@ -119,7 +119,7 @@ The Database for the mobile application will track data relevant to the charging
 
 * The statistics subpage shall display within the user menu window when a user clicks on the "Statistics" button on the top of the user menu window.
 
-* The statistics subpage shall display statistics on charging station data and user data (*Note:* These specific statistics shall be finalized when partnering with electric scooter companies and with further discussions with the engineering teams. Example statistics may include: Amount of energy saved by using charging stations, number of stations used this week, and miles traveled).
+* The statistics subpage shall display statistics on charging station data and user data (*Note: These specific statistics shall be finalized when partnering with electric scooter companies and with further discussions with the engineering teams. Example statistics may include: Amount of energy saved by using charging stations, number of stations used this week, and miles traveled*).
 
 
 ### 5.3.2 Database
