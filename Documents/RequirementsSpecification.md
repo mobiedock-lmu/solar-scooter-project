@@ -5,6 +5,7 @@
 The MobieDock Application will be the software component of the Solar Scooter Charger project. The application will based on existing electric scooter applications, with the intention to eventually be able to collaborate and integrate with their existing applications.
 
 **Acronyms**
+The acronyms contained in this document are as folllows:
 
 Acronym | Meaning
 |-----|--------|
