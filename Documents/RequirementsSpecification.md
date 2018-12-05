@@ -19,7 +19,7 @@ GUI   | Graphical User Interface
 
 CSCI MobieDock Mobile Application is comprised of the following CSCs
 
-### 5.2.1 Graphical User Interface Client
+### 5.2.1 Graphical User Interface Client CSC
 
 The Graphical User Interface (GUI) is the interface the user will be interacting with. The GUI will be composed of the following CSUs.
 
