@@ -121,6 +121,20 @@ The Database for the mobile application will track data relevant to the charging
 
 * The statistics subpage shall display statistics on charging station data and user data (*Note: These specific statistics shall be finalized when partnering with electric scooter companies and with further discussions with the engineering teams. Example statistics may include: Amount of energy saved by using charging stations, number of stations used this week, and miles traveled*).
 
+#### 5.3.1.6 Rewards Subpage 
+
+* The rewards subpage shall display within the user menu window when a user clicks on the "Statistics" button on the top of the user menu window.
+
+* The rewards subpage shall display the rewards availble for a user to achieve in a list-like view.
+
+* The rewards subpage shall display a progress bar under each reward tracking the progress to a reward.
+
+* The rewards subpage shall feature a "Redeem" button under each reward for a user to redeem a reward, but will be greyed out and unclickable if the user has not yet achieved the reward.
+
+* The rewards subpage shall feature a "View Reward" button under each reward for the user to view more details on the reward on click.
+
+* The rewards subpage shall implement a page scrolling functionality within the user menu window.
+
 
 ### 5.3.2 Database
 
