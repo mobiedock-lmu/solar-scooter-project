@@ -29,13 +29,14 @@ The Graphical User Interface (GUI) is the interface the user will be interacting
 
 #### 5.2.1.3 Charging Station Menu CSU
 
-##### 5.2.1.3.1 Statistics Subpage
-
-##### 5.2.1.3.2 Rewards Subpage
-
-##### 5.2.1.3.3 Heatmap Subpage
-
 #### 5.2.1.4 User Menu CSU
+
+##### 5.2.1.4.1 Statistics Subpage
+
+##### 5.2.1.4.2 Rewards Subpage
+
+##### 5.2.1.4.3 Heatmap Subpage
+
 
 ### 5.2.2 Database CSC
 
