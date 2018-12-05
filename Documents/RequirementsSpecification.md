@@ -178,7 +178,31 @@ The Database for the mobile application will track data relevant to the charging
 
 ## 5.5  Project Environment Requirements
 
-#### 5.5.1   Development Environment Requirements
+### 5.5.1   Development Environment Requirements
+
+#### 5.5.1.1 Hardware Requirements
+
+Category | Requirement
+|--------|------------|
+Hard Drive Space | 
+RAM | 
+Display |
+
+#### 5.5.1.2 Software Requirements
+
+Category | Requirement
+|--------|------------|
+Operating System | Mac OSX
+Compiler |
+Graphics | 
+API | Coord API
+API | Apple/Google Maps API
+Database | PostgreSQL
+Database Manager | pgAdmin 4
 
 #### 5.5.2   Execution Environment Requirements
+
+#### 5.5.2.1 Hardware Requirements
+
+#### 5.5.2.2 Software Requirements
 
