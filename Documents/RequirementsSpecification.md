@@ -1,7 +1,8 @@
-# Requirements Specifications: Solar Charging Stations Mobile Application
+# Requirements Specifications
 
 ## 5.1  Introduction
-The Solar Charger Application will be the software component of the Solar Scooter Charger project. The application will based on existing electric scooter applications, with the intention to eventually be able to collaborate and integrate with their existing applications.
+
+The MobieDock Application will be the software component of the Solar Scooter Charger project. The application will based on existing electric scooter applications, with the intention to eventually be able to collaborate and integrate with their existing applications.
 
 The application's main page will consist of a map with the locations of the different solar chargers shown on the screen. On click, Each location will include specifics on the number of open charge slots, the number of charged scooters available (Figure 1).
 
