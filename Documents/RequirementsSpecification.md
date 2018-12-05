@@ -203,5 +203,15 @@ Database Manager | pgAdmin 4
 
 #### 5.5.2.1 Hardware Requirements
 
+Category | Requirement
+|--------|------------|
+Hard Drive Space | 
+RAM | 
+Display |
+
 #### 5.5.2.2 Software Requirements
 
+Category | Requirement
+|--------|------------|
+Operating System | Mac OSX
+Database | PostgreSQL
