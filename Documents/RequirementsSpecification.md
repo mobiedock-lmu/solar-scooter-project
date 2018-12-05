@@ -193,8 +193,7 @@ Display |
 Category | Requirement
 |--------|------------|
 Operating System | Mac OSX
-Compiler |
-Graphics | 
+IDE | Xcode
 API | Coord API
 API | Apple/Google Maps API
 Database | PostgreSQL
