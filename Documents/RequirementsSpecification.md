@@ -13,11 +13,13 @@ CSCI MobieDock Mobile Application is comprised of the following CSCs
 
 The Graphical User Interface (GUI) is the interface the user will be interacting with. The GUI will be composed of the following CSUs.
 
-#### 5.2.1.1 Main Screen CSU
+#### 5.2.1.1 Main Page CSU
 
-#### 5.2.1.2 Charging Station Menu CSU
+#### 5.2.1.2 Charging Station Preview CSU
 
-#### 5.2.1.3 User Menu CSU
+#### 5.2.1.3 Charging Station Menu CSU
+
+#### 5.2.1.4 User Menu CSU
 
 ### 5.2.2 Database CSC
 
@@ -25,17 +27,31 @@ The Database for the mobile application will track data relevant to the charging
 
 ## 5.3  Functional Requirements by CSC
 
-### 5.3.1 Main Page GUI
+### 5.3.1 Graphical User Interface
+
+#### 5.3.1.1 Main Page
 
 * The main page shall be displayed to the user upon opening the main application.
 
-* The main page shall consist of a map that displays icons of solar charging stations at their specific locations.
+* The main page shall display a full-screen map that displays the location and surrounding map of the user.
 
-* When a user taps a charger icon, a pop-up window shall display on the screen that displays charger information including: 1) Number of bays available 2) Ability to reserve a bay.
+* The main page shall display an icon that marks the location of the user on the map.
 
-* A circular menu button shall be on the bottom center of the screen.
+* The main page map shall display icons corresponding to the locations of nearby charging stations.
 
-* When a user taps the button, a popup menu shall expand on the screen that displays icons and labels for other pages including: 1) Statistics 2) Rewards.
+* The main page map shall display icons corresponding to the locations of nearby electric scooters and bikes.
+
+* The main page shall display a search bar at the top of the screen for the user to search for a location.
+
+* The main page map shall move to the location that a user inputs into the search bar to display nearby charging stations and vehicles at that given location.
+
+#### 5.3.1.2 Charging Station Preview
+
+* When a user taps a charger icon on the Main Page, a small rectangular pop-up window shall expand from the charging station icon.
+
+* The Main Page charging station pop-up menu shall display the street view of the charging station location
+
+
 
 ### 5.3.2 Statistics Page GUI
 
@@ -49,12 +65,3 @@ The Database for the mobile application will track data relevant to the charging
 
 #### 5.5.2   Execution Environment Requirements
 
-## 5.6 Example Images
-### Figure 1: Bird - Station Status Example 1
-<img src="./images/mockups/Originals/Bird_station_status_mockup.png" width="364" height="684">
-
-### Figure 2: Lime - Station Status Example 2
-<img src="./images/mockups/Originals/Lime_station_status_mockup.png" width="364" height="684">
-
-### Figure 3: Bird - Incentive Tracking
-<img src="./images/mockups/Originals/Bird_incentive_tracking_mockup.png" width="364" height="684">
