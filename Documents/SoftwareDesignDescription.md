@@ -30,6 +30,10 @@ The Front End of the application will be built using React Native. The Back End 
 
 **6.2.3.3 -- User Menu:** When a user clicks on the menu button at the bottom of the screen, a menu with 3 tabs appears. The tabs allow the user to switch between the Statistics, Rewards and Heatmap. The stats page shows the user's statistics including their power savings, station usage etc. The Rewards page allows the user to redeem and view upcoming rewards and the heatmap shows the user's most used station locations.
 
+Statistics | Rewards | Heatmap
+:---------:|:----------:|:----------:
+<img src="./images/mockups/stats.png" height="400"> | <img src="./images/mockups/rewards.png" height="400">|<img src="./images/mockups/heatmap.png" height="400">
+
 <img src="./images/mockups/stats.png" height="500">
 <img src="./images/mockups/rewards.png" height="500">
 <img src="./images/mockups/heatmap.png" height="500">
