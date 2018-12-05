@@ -199,7 +199,7 @@ API | Apple/Google Maps API
 Database | PostgreSQL
 Database Manager | pgAdmin 4
 
-#### 5.5.2   Execution Environment Requirements
+### 5.5.2   Execution Environment Requirements
 
 #### 5.5.2.1 Hardware Requirements
 
