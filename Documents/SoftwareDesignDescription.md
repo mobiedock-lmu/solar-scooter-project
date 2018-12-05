@@ -34,13 +34,17 @@ The Front End of the application will be built using React Native. The Back End 
 <img src="./images/mockups/rewards.png" height="500">
 <img src="./images/mockups/heatmap.png" height="500">
 
-## 6.2       Architectural Design
+## 6.2       Architectural Design  
+the iOS app will run off of React Native. React Native will access a PostgreSQL Database created in CMSI 486 Databases.
 
 ### 6.2.1     Major Software Components
+All pages will have a round menu button that, when clicked will bring up the user's menu. Map pages will also include a search bar. See above for images of the different pages.
 
 ### 6.2.2     Major Software Interactions
+Since the main purpose of the app is to display MobieDock and scooter/bike locations, the most important interactions will occur on the map page. The Map will include the ability to search around a certain location and to zoom in and out to view locations more often.
 
 ### 6.2.3     Architectural Design Diagrams
+
 
 ## 6.3.      CSC and CSU Descriptions
 
