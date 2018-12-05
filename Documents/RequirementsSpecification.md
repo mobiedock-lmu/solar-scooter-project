@@ -4,7 +4,16 @@
 
 The MobieDock Application will be the software component of the Solar Scooter Charger project. The application will based on existing electric scooter applications, with the intention to eventually be able to collaborate and integrate with their existing applications.
 
-## 5.2  CSCI Component Breakdown
+**Acronyms**
+
+Acronym | Meaning
+|-----|--------|
+CSCI  | Computer Software Configuration Item
+CSC   | Computer Software Component
+CSU   | Computer Software Unit
+GUI   | Graphical User Interface
+
+## 5.2  CSCI Component Breakdown CSC
 
 CSCI MobieDock Mobile Application is comprised of the following CSCs
 
