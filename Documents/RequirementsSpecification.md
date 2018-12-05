@@ -44,6 +44,8 @@ The Database for the mobile application will track data relevant to the charging
 
 * The main page map shall move to the location that a user inputs into the search bar to display nearby charging stations and vehicles at that given location.
 
+* The main page shall display a circular button on the bottom of the screen to open the user menu.
+
 #### 5.3.1.2 Charging Station Preview
 
 * The charging station preview shall appear when a user taps a charger icon on the main page.
@@ -59,6 +61,12 @@ The Database for the mobile application will track data relevant to the charging
 * The charging station preview shall display the location name of the selected charging station.
 
 * The charging station preview shall display how many bays are available at the seleted charging station.
+
+#### 5.3.1.3 Charging Station Menu
+
+* The charging station menu shall be displayed when a user clicks on the button to view the menu from the charging station preview.
+
+* The charging station menu shall take up most of the screen with small margins on all sides, and shall not cover the circular user menu button on the bottom of the screen.
 
 
 
