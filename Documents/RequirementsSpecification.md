@@ -149,6 +149,30 @@ The Database for the mobile application will track data relevant to the charging
 
 ### 5.3.2 Database
 
+* The database shall be a relational database.
+
+* The database shall be only accessible by the front end when logged in to a valid account.
+
+* The database shall record the location of the charging station by its coordinates.
+
+* The database shall record the number of bays available at a station.
+
+* The database shall record the number of total bays that comprise a station.
+
+* The database shall record whether a given by is available or not.
+
+* The database shall record the lase maintenance date of the charging station.
+
+* The database shall record errors reported at each charging station.
+
+* The database shall record ad information (to be finalized with further partnerships and discussions).
+
+* The database shall record a history of the vehicles that have docked at the station.
+
+* The database shall record the types of vehicles that are docked at the location (scooter, bike, etc.)
+
+* The database shall record the cost to ride the vehivle.
+
 
 ## 5.4  Performance Requirements by CSC
 
