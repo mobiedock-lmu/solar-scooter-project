@@ -7,13 +7,21 @@ The application's main page will consist of a map with the locations of the diff
 
 ## 5.2  CSCI Component Breakdown
 
-CSCI Solar Charger Mobile Application is comprised of the following CSCs
+CSCI MobieDock Mobile Application is comprised of the following CSCs
 
-**5.2.1** Main Page GUI
+### 5.2.1 Graphical User Interface Client
 
-**5.2.2** Statistics Page GUI
+The Graphical User Interface (GUI) is the interface the user will be interacting with. The GUI will be composed of the following CSUs.
 
-**5.2.3** Rewards Page GUI
+#### 5.2.1.1 Main Screen CSU
+
+#### 5.2.1.2 Charging Station Menu CSU
+
+#### 5.2.1.3 User Menu CSU
+
+### 5.2.2 Database CSC
+
+The Database for the mobile application will track data relevant to the charging stations, energy use, and company information regarding advertisements and data to be determined with future partnerships.
 
 ## 5.3  Functional Requirements by CSC
 
