@@ -177,6 +177,13 @@ The Database for the mobile application will track data relevant to the charging
 
 ## 5.4  Performance Requirements by CSC
 
+### 5.4.1 Graphical User Interface
+
+#### 5.4.1.1 Main Page
+
+* Search results shall be retruned within 3 seconds.
+
+
 ## 5.5  Project Environment Requirements
 
 ### 5.5.1   Development Environment Requirements
