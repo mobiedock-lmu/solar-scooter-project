@@ -224,9 +224,9 @@ The following sections outline the environment requirements for development of t
 
 Category | Requirement
 |--------|------------|
-Hard Drive Space | 
-RAM | 
-Display |
+Hard Drive Space | 10GB
+RAM | 4GB required, 8GB recommended
+Display | 2,880 x 1,800 or smaller
 
 #### 5.5.1.2 Software Requirements
 
@@ -235,7 +235,7 @@ Category | Requirement
 Operating System | Mac OSX
 IDE | Xcode
 API | Coord API
-API | Apple/Google Maps API
+API | React Native Maps API
 Database | PostgreSQL
 Database Manager | pgAdmin 4
 
@@ -247,9 +247,9 @@ The following sections outline the environment requirements to run the applicati
 
 Category | Requirement
 |--------|------------|
-Hard Drive Space | 
-RAM | 
-Display |
+Hard Drive Space | 500MB
+RAM | 1GB
+Display | 1242 x 2688 or smaller
 
 #### 5.5.2.2 Software Requirements
 
@@ -257,3 +257,5 @@ Category | Requirement
 |--------|------------|
 Operating System | Mac OSX
 Database | PostgreSQL
+
+The application will run on Mac OSX with an iOS Simulator. 
