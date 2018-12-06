@@ -34,8 +34,9 @@ Statistics | Rewards | Heatmap
 :---------:|:----------:|:----------:
 <img src="./images/mockups/stats.png" height="400"> | <img src="./images/mockups/rewards.png" height="400">|<img src="./images/mockups/heatmap.png" height="400">
 
-## 6.2       Architectural Design  
-the iOS app will run off of React Native. React Native will access a PostgreSQL Database created in CMSI 486 Databases.
+## 6.2       Architectural Design 
+<img src="./images/Architecture-design.png" height="500" style="display: inline-block;">
+The iOS app will run off of React Native. React Native will access a PostgreSQL Database created in CMSI 486 Databases.
 
 ### 6.2.1     Major Software Components
 All pages will have a round menu button that, when clicked will bring up the user's menu. Map pages will also include a search bar. See above for images of the different pages.
