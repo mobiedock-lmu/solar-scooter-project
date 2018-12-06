@@ -20,21 +20,28 @@ The Front End of the application will be built using React Native. The Back End 
 
 #### 6.2.3 Human Interfaces
 
-**6.2.3.1 -- Home Page:** This screen shall be displayed upon opening the application. There shall be a map that displays scooter, bikes, and charger locations. The user can locate the nearest charger on/or bike/scooter. When a user clicks a charging station, a popup screen shows a street view of the charging station, allows for location info to be shared to another user, and indicates the number of available bays at the station. A collapsable menu will allow for navigation to other pages. (See figures below)
+**6.2.3.1 -- Login Page:** For user data to be secure, login authentication will be done through the Google Users API, allowing anyone with a Google account to use MobieDock. The login button will show the user a popup and then open a webpage where the user can login to Google.
+
+Login | Popup | Google Page
+:---------:|:----------:|:----------:
+<img src="./images/mockups/login.png" height="400"> | <img src="./images/mockups/google-popup.png" height="400">|<img src="./images/mockups/google-login.png" height="400">
+
+
+**6.2.3.2 -- Home Page:** This screen shall be displayed upon opening the application. There shall be a map that displays scooter, bikes, and charger locations. The user can locate the nearest charger on/or bike/scooter. When a user clicks a charging station, a popup screen shows a street view of the charging station, allows for location info to be shared to another user, and indicates the number of available bays at the station. A collapsable menu will allow for navigation to other pages. (See figures below)
 
 <img src="./images/mockups/homepage-1.png" height="500" style="display: inline-block;">
 
-**6.2.3.2 -- Charging Station Menu:** When a user clicks on a charging station icon, a pop up menu will appear. This allows the user to reserve a bay, start a trip, report problems at the bay, and earn rewards. There will also be a warning for traffic, data on distance of trip, and a display of the assigned dock.
+**6.2.3.3 -- Charging Station Menu:** When a user clicks on a charging station icon, a pop up menu will appear. This allows the user to reserve a bay, start a trip, report problems at the bay, and earn rewards. There will also be a warning for traffic, data on distance of trip, and a display of the assigned dock.
 
 <img src="./images/mockups/station-menu.png" height="500">
 
-**6.2.3.3 -- User Menu:** When a user clicks on the menu button at the bottom of the screen, a menu with 3 tabs appears. The tabs allow the user to switch between the Statistics, Rewards and Heatmap. The stats page shows the user's statistics including their power savings, station usage etc. The Rewards page allows the user to redeem and view upcoming rewards and the heatmap shows the user's most used station locations.
+**6.2.3.4 -- User Menu:** When a user clicks on the menu button at the bottom of the screen, a menu with 3 tabs appears. The tabs allow the user to switch between the Statistics, Rewards and Heatmap. The stats page shows the user's statistics including their power savings, station usage etc. The Rewards page allows the user to redeem and view upcoming rewards and the heatmap shows the user's most used station locations.
 
 Statistics | Rewards | Heatmap
 :---------:|:----------:|:----------:
 <img src="./images/mockups/stats.png" height="400"> | <img src="./images/mockups/rewards.png" height="400">|<img src="./images/mockups/heatmap.png" height="400">
 
-## 6.2       Architectural Design 
+## 6.2       Architectural Design
 <img src="./images/Architecture-design.png" height="500" style="display: inline-block;">
 The iOS app will run off of React Native. React Native will access a PostgreSQL Database created in CMSI 486 Databases.
 
