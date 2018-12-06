@@ -42,7 +42,6 @@ Statistics | Rewards | Heatmap
 <img src="./images/mockups/stats.png" height="400"> | <img src="./images/mockups/rewards.png" height="400">|<img src="./images/mockups/heatmap.png" height="400">
 
 ## 6.2       Architectural Design
-<img src="./images/Architecture-design.png" height="500" style="display: inline-block;">
 The iOS app will run off of React Native. React Native will access a PostgreSQL Database created in CMSI 486 Databases.
 
 ### 6.2.1     Major Software Components
@@ -53,6 +52,7 @@ Since the main purpose of the app is to display MobieDock and scooter/bike locat
 
 ### 6.2.3     Architectural Design Diagrams
 
+<img src="./images/Architecture-design.png" height="500" style="display: inline-block;">
 
 ## 6.3.      CSC and CSU Descriptions
 
