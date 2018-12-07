@@ -215,7 +215,7 @@ The Database for the mobile application will track data relevant to the charging
 
 * Main login screen shall be displayed within 3 seconds of opening the application.
 
-#### 5.4.1.1 Home Page
+#### 5.4.1.2 Home Page
 
 * Location search results shall be returned within 3 seconds of query.
 
@@ -225,6 +225,19 @@ The Database for the mobile application will track data relevant to the charging
 
 * The icons that designate the locations of charging stations and vehicles shall load within 2 seconds of loading the map.
 
+#### 5.4.1.3 Charging Station Menu
+
+* The Charging Station Menu shall expand instantaneously after a user taps on the circular menu button on the bottom of the screen.
+
+* All content and data in the Charging Station Menu (ie. location, assigned dock, and rewards) shall load within 1 second of viewing a subpage.
+
+* The heatmap of the Charging Staion Menu shall load within 2 seconds of viewing the heatmap subpage. 
+
+* The heatmap of the Charging Staion Menu shall pan and zoom instantaneously and smoothly in response to touch.
+
+* All subpages of the charging station menu with scrolling functionality shall scroll instantaneously and smoothly in response to touch.
+
+* The Charging Station Menu shall collapse instantaneously after a user taps on the circular menu on the bottom of the screen.
 
 ## 5.5  Project Environment Requirements
 
@@ -239,6 +252,8 @@ Category | Requirement
 Hard Drive Space | 10GB
 RAM | 4GB required, 8GB recommended
 Display | 2,880 x 1,800 or smaller
+
+We will need roughly 10GB of free space on our Mac devices for Xcode, React Native, and the simulator. The RAM requirements are derived from Xcode recommendations.
 
 #### 5.5.1.2 Software Requirements
 
