@@ -209,9 +209,21 @@ The Database for the mobile application will track data relevant to the charging
 
 ### 5.4.1 Graphical User Interface
 
-#### 5.4.1.1 Main Page
+#### 5.4.1.1 Login Page
 
-* Search results shall be retruned within 3 seconds.
+* User shall be logged in within 5 seconds of entering their username and password.
+
+* Main login screen shall be displayed within 3 seconds of opening the application.
+
+#### 5.4.1.1 Home Page
+
+* Location search results shall be returned within 3 seconds of query.
+
+* The map shall pan and zoom instantaneously and smoothly in response to touch.
+
+* The map shall load within 3 seconds of entering the home screen.
+
+* The icons that designate the locations of charging stations and vehicles shall load within 2 seconds of loading the map.
 
 
 ## 5.5  Project Environment Requirements
