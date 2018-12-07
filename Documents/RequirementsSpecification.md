@@ -266,6 +266,8 @@ API | React Native Maps API
 Database | PostgreSQL
 Database Manager | pgAdmin 4
 
+We will be developing using Xcode, which runs on Mac OSX. The Coord API provides data on location of scooters, and the React Native Maps API gives us a map built into the app. The project will utilize pgAdmin 4 to manage the PostgreSQL database. 
+
 ### 5.5.2   Execution Environment Requirements
 
 The following sections outline the environment requirements to run the application, assuming the application is running locally and not downloaded from the App Store.
@@ -277,6 +279,8 @@ Category | Requirement
 Hard Drive Space | 500MB
 RAM | 1GB
 Display | 1242 x 2688 or smaller
+
+These specifications on hard drive space and RAM are all estimates and may be subject to change. The display specified is the largest display size of current iPhones.
 
 #### 5.5.2.2 Software Requirements
 
