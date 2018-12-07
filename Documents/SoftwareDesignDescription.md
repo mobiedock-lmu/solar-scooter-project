@@ -147,5 +147,7 @@ Since the main purpose of the app is to display MobieDock and scooter/bike locat
 
 
 ### 6.4.2     Database Access
+Each user will be able to use the database to access their own ride and MobieDock usage data.
 
 ### 6.4.3     Database Security
+Authentication will be handled mostly by the Google Users API, which will make sure that each user is connected to the proper account to see their own data.
