@@ -58,15 +58,19 @@ Since the main purpose of the app is to display MobieDock and scooter/bike locat
 
 ### 6.3.1     Class Descriptions
 
-#### 6.3.1.1   Detailed Class Description 1
-
-#### 6.3.1.n   Detailed Class Description n
+Class descriptions to be determined with further iterrations in Spring 2019.
 
 ### 6.3.2     Detailed Interface Descriptions
 
+Interface descriptions to be determined with further iterrations in Spring 2019.
+
 ### 6.3.3     Detailed Data Structure Descriptions
 
+Data Structure descriptions to be determined with further iterrations in Spring 2019.
+
 ### 6.3.4     Detailed Design Diagrams
+
+Diagrams to be designed with further iterrations in Spring 2019.
 
 
 ## 6.4       Database Design and Description
