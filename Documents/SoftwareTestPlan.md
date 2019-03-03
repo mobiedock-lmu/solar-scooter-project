@@ -89,9 +89,10 @@ As of December 2018, The Coord API has been disabled and removed, making us unab
 ### 8.6.2 Charging Dock Locations & Data
 As of February 2019, the engineering team has not created a prototype with location tracking abilities or data output that we can recieve on the software side.
 ## 8.7    Test Verification Matrix
-Element | Test Desription
-:-------:|:-------:
-Login Page| dfdf
-Home page|
-Charging station menu|
-User Menu|
+Requirement # | Element | Test Description
+:-------:|:-------:|:-----:
+1 | Login Page|
+2 | Home page|
+3 | Charging station menu|
+4 | User Menu|
+5 | Location Search |
