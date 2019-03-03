@@ -98,7 +98,7 @@ In order to fully demonstrate that our application works as intended, we'll want
 - 8.2.1.6 Find nearby free-standing or docked vehicles from the map
 - 8.3.1.2 Plan a trip, and use the app to end the trip and subsequently dock the scooter.
 ### 8.4.2  Final Acceptance Test Procedures
-Guide a user through the entire process of booking and completing a round-trip scooter excursion (after creating a Mobiedock account and loggin in):
+Guide a user through the entire process of booking and completing a round-trip scooter excursion (after creating a Mobiedock account and login in):
 - The trip should involve at least 4 total miles of travel.
 - On the way there, have the user choose any scooter or bike that is near them (undocked).
 - Plan the trip from that scooter to a charging station that is at least 2 miles away.
@@ -109,11 +109,13 @@ Guide a user through the entire process of booking and completing a round-trip s
 - When they arrive, they will end the ride from the app.
 - After all is said and done, verify that the distance traveled, trip history, and any associated charges are correct.
 ## 8.5    Test Configuration Control
+Everything relevant to the Mobiedock project can be found on Github.  The website we will soon be building is even hosted on Github pages.  We won't be using any additional software for version control (VC), so as to prevent confusion.  Instead, we'll have clearly defined testing modules inside the app directory - this is where the unit tests can be found.  Anyone who wishes to try them out can clone the repository and run the Jest / Enzyme tests on their own devices or simulators.  In terms of integration testing etc, we'll likely end up archiving old test procedures if there are major changes to the software that make major alterations to functionality.  New tests will be labeled in kind to current version numbers so that everything is neatly grouped together.
 ## 8.6    Items Not Tested
+
 ### 8.6.1 Coord API Locations
-As of December 2018, The Coord API has been disabled and removed, making us unable to test specific locations of Scooters and e-Bikes. 
+As of December 2018, The Coord API has been disabled and removed, making us unable to test specific locations of Scooters and e-Bikes.  These locations are rumored to be made publicly available by law.  Soon, we hope to be able to use a publicly-provided API to grab location in the same way that we were previously able to with Coord.  Until then, this functionality can be omitted, and we'll focus on station-to-station transit.
 ### 8.6.2 Charging Dock Locations & Data
-As of February 2019, the engineering team has not created a prototype with location tracking abilities or data output that we can recieve on the software side.
+As of February 2019, the engineering team has not created a prototype with location tracking abilities or data output that we can receive on the software side.
 ## 8.7    Test Verification Matrix
 Requirement # | Element | Test Description
 :-------:|:-------:|:-----:
