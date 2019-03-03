@@ -71,7 +71,7 @@ The following procedure tests that the user can properly search for a location:
   2. Toggle the "notifications" and "location" settings off and back on.  Verify that you get an iOS prompt to allow the app to use your location and send notifications.
   3. Use the "Vehicle radius" setting to change the radius that the app searches for nearby vehicles.  Verify that changing this setting is reflected in the map.
 #### 8.3.1.2 Trip Test
-  1. Select the "take a trip" button from the map screen.
+  1. Select the "take a trip" button from the card that appears when you select a station or free-standing vehicle.
   2. Search for a location or drop a pin and confirm.
   3. Verify that the map now shows a recommended route, distance away, and estimated time of travel.
 #### 8.3.1.3 Management Test -- DEPRECATED AS OF 01/19. WILL BE MIGRATED TO A SEPARATE ADMIN TOOL
@@ -121,8 +121,8 @@ As of February 2019, the engineering team has not created a prototype with locat
 ## 8.7    Test Verification Matrix
 Requirement # | Element | Test Description
 :-------:|:-------:|:-----:
-1 | Login Page|
-2 | Home page|
-3 | Charging station menu|
-4 | User Menu|
-5 | Location Search |
+1 | Login Page| 8.2.1.1
+2 | Home page| 8.2.1.2
+3 | Charging station menu | 8.3.1.2
+4 | User Menu| 8.2.1.4 / 8.2.1.5
+5 | Location Search | 8.2.1.3
