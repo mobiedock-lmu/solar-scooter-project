@@ -117,7 +117,7 @@ There are two major things that we are not testing:
 ### 8.6.1 Coord API Locations
 As of December 2018, The Coord API has been disabled and removed, making us unable to test specific locations of Scooters and e-Bikes.  These locations are rumored to be made publicly available by law.  Soon, we hope to be able to use a publicly-provided API to grab location in the same way that we were previously able to with Coord.  Until then, this functionality can be omitted, and we'll focus on station-to-station transit.
 ### 8.6.2 Charging Dock Locations & Data
-As of February 2019, the engineering team has not created a prototype with location tracking abilities or data output that we can receive on the software side.
+The engineering team has created a prototype that uses a smart power strip to track electrical metrics and efficiency data from the solar panel.  To view this data, we currently have to use the [Kasa Smart Home app](https://play.google.com/store/apps/details?id=com.tplink.kasa_android&hl=en_US).  We want to be able to pipe this data into our software or database so that we may monitor our system when it becomes distributed across multiple universities or cities.  The best way of achieving this may be to build our own smart strip that hooks into a Raspberry Pi which is optimized for receiving and transmitting data (after being pre-configured to do so).  This process has not yet begun, but something similar to what we want to do is outlined [here](https://www.raspberrypi.org/forums/viewtopic.php?t=163473).
 ## 8.7    Test Verification Matrix
 Requirement # | Element | Test Description
 :-------:|:-------:|:-----:
