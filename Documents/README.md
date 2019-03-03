@@ -10,4 +10,4 @@
 
 * [Software Design Description (SDD)](https://github.com/itsEmShoji/solar-scooter-project/blob/master/Documents/SoftwareDesignDescription.md)
 
-* [Software Test/Integration Plan (STP)](https://github.com/itsEmShoji/solar-scooter-project/blob/master/Documents/UnitTesting.md)
+* [Software Test/Integration Plan (STP)](https://github.com/itsEmShoji/solar-scooter-project/blob/master/Documents/SoftwareTestPlan.md)
